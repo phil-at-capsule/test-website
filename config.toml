@@ -1,0 +1,4 @@
+baseURL = 'http://capsule-ai.co.uk/'
+languageCode = 'en-gb'
+title = 'CapsuleAI Early Access Site'
+theme = 'hugo-now-ui'
